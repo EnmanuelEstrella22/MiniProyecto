@@ -8,7 +8,7 @@ The project is manipulated by console.
 
 ## Content and features
 - borad.py file
--utilities.py file
+- utilities.py file
 - piece.py file
 - main.py file
 
